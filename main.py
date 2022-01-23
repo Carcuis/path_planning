@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import matplotlib.pyplot as plt
 from random_map import RandomMap
 from algorithm import Algorithm
